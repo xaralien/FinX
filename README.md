@@ -1,0 +1,2 @@
+# FinX
+Discord Bot
